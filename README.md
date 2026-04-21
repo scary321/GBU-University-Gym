@@ -1,4 +1,4 @@
-there is only one file which include HTML,CSS , JS
+There is only one file which includes HTML,CSS , JS
 
-and also for backend authentication i used firebase 
+And also for backend authentication I used firebase 
 
